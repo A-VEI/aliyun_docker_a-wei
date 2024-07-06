@@ -8,4 +8,4 @@
 
 
 #需要转存的镜像：
-ghcr.io/home-assistant/home-assistant:stable
+ghcr.io/home-assistant/home-assistant
