@@ -10,4 +10,5 @@
 #需要转存的镜像：
 #ghcr.io/home-assistant/home-assistant:stable
 #ghcr.io/home-assistant/home-assistant:latest
-hslr/sun-panel:latest
+#hslr/sun-panel:latest
+jeessy/ddns-go
