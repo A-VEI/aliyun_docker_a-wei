@@ -12,4 +12,6 @@
 #ghcr.io/home-assistant/home-assistant:latest
 #hslr/sun-panel:latest
 #jeessy/ddns-go
-monlor/xiaoya
+#monlor/xiaoya
+githubyumao/mcsmanager-daemon:latest
+githubyumao/mcsmanager-web:latest
