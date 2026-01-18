@@ -13,5 +13,6 @@
 #hslr/sun-panel:latest
 #jeessy/ddns-go
 #monlor/xiaoya
-githubyumao/mcsmanager-daemon:latest
-githubyumao/mcsmanager-web:latest
+#githubyumao/mcsmanager-daemon:latest
+#githubyumao/mcsmanager-web:latest
+dockurr/windows
