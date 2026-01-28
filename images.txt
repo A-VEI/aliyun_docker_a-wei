@@ -16,4 +16,4 @@
 #githubyumao/mcsmanager-daemon:latest
 #githubyumao/mcsmanager-web:latest
 #dockurr/windows
-docker.io/library/streamui-web:latest
+streamui-web:latest
