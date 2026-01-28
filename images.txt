@@ -15,4 +15,5 @@
 #monlor/xiaoya
 #githubyumao/mcsmanager-daemon:latest
 #githubyumao/mcsmanager-web:latest
-dockurr/windows
+#dockurr/windows
+docker.io/library/streamui-web:latest
